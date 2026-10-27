@@ -1,2 +1,2 @@
-# Página html de ejemplo.
-Una página html de ejemplo con fichero de estilos a parte. Estos no están relacionados con la etiqueta "link"
+# Recursos de ejemplo
+Colección de imágenes y recursos del tipo "Media" de ejemplo.
