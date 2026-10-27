@@ -1,2 +1,2 @@
-# Página html de ejemplo.
-Una página html de ejemplo con fichero de estilos a parte. Estos no están relacionados con la etiqueta "link"
+# Archivos css de ejemplo
+Archivos css de ejemplo públicos
